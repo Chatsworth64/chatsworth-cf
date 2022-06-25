@@ -3,41 +3,41 @@
     "date": "",
     "description": "Hypnotherapy uses hypnosis to try to treat conditions or change habits",
     "body": "What happens in a hypnotherapy session There are different types of hypnotherapy, and different ways of hypnotising someone.\nFirst, you\u0026rsquo;ll usually have a talk with your therapist to discuss what you hope to achieve and agree what methods your therapist will use.\nAfter this, the hypnotherapist may:\nlead you into a deeply relaxed state – most people feel refreshed and relaxed use your agreed methods to help you towards your goals – for example, suggesting that you do not want to carry out a certain habit gradually bring you out of the trance-like state. Most people feel refreshed and relaxed You\u0026rsquo;re fully in control when under hypnosis and do not have to take on the therapist\u0026rsquo;s suggestions if you do not want to.\nIf necessary, you can bring yourself out of the hypnotic state.\nHypnosis does not work if you do not want to be hypnotised.\n",
-    "ref": "/uppertonic_test/blog/hypnotherapy/"
+    "ref": "/blog/hypnotherapy/"
   },{
     "title": "Stop Smoking!",
     "date": "",
     "description": "It's really bad for you",
     "body": "Quit Smoking Stopping smoking is one of the best things you will ever do for your health.\nWhen you stop, you give your lungs the chance to repair and you will be able to breathe easier. There are lots of other benefits too – and they start almost immediately.\nIt\u0026rsquo;s never too late to quit. Let\u0026rsquo;s do this!\n",
-    "ref": "/uppertonic_test/blog/stop-smoking/"
+    "ref": "/blog/stop-smoking/"
   },{
     "title": "Video Links",
     "date": "",
     "description": "A short list of Video Content",
     "body": "Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.\n YouTube Hugo Video    Twitter Simple tweet link to Merc AMG .twitter-tweet { font: 14px/1.45 -apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,\"Helvetica Neue\",sans-serif; border-left: 4px solid #2b7bb9; padding-left: 1.5em; color: #555; } .twitter-tweet a { color: #2b7bb9; text-decoration: none; } blockquote.twitter-tweet a:hover, blockquote.twitter-tweet a:focus { text-decoration: underline; }  And there he goes for his final run of the weekend 🙏 @EstebanGtz pic.twitter.com/rbKouKEDzJ\n\u0026mdash; Mercedes-AMG PETRONAS F1 Team (@MercedesAMGF1) June 25, 2022  Vimeo Simple Shortcode  .__h_video { position: relative; padding-bottom: 56.23%; height: 0; overflow: hidden; width: 100%; background: #000; } .__h_video img { width: 100%; height: auto; color: #000; } .__h_video .play { height: 72px; width: 72px; left: 50%; top: 50%; margin-left: -36px; margin-top: -36px; position: absolute; cursor: pointer; }  ",
-    "ref": "/uppertonic_test/blog/rich-content/"
+    "ref": "/blog/rich-content/"
   },{
     "title": "About me",
     "date": "",
     "description": "Jane Smith - Hypnotherapist",
     "body": "Hypnotherapy Hypnotherapy uses hypnosis to try to treat conditions or change habits.\nWhat happens in a hypnotherapy session There are different types of hypnotherapy, and different ways of hypnotising someone.\nFirst, you\u0026rsquo;ll usually have a talk with your therapist to discuss what you hope to achieve and agree what methods your therapist will use.\nAfter this, the hypnotherapist may:\nlead you into a deeply relaxed state – most people feel refreshed and relaxed use your agreed methods to help you towards your goals – for example, suggesting that you do not want to carry out a certain habit gradually bring you out of the trance-like state. Most people feel refreshed and relaxed You\u0026rsquo;re fully in control when under hypnosis and do not have to take on the therapist\u0026rsquo;s suggestions if you do not want to.\nIf necessary, you can bring yourself out of the hypnotic state.\nHypnosis does not work if you do not want to be hypnotised.\n",
-    "ref": "/uppertonic_test/about/"
+    "ref": "/about/"
   },{
     "title": "Markdown Syntax Guide",
     "date": "",
     "description": "Sample article showcasing basic Markdown syntax and formatting for HTML elements.",
     "body": "This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.\nHeadings The following HTML \u0026lt;h1\u0026gt;—\u0026lt;h6\u0026gt; elements represent six levels of section headings. \u0026lt;h1\u0026gt; is the highest section level while \u0026lt;h6\u0026gt; is the lowest.\nH1 H2 H3 H4 H5 H6 Paragraph Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.\nItatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.\nBlockquotes The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a footer or cite element, and optionally with in-line changes such as annotations and abbreviations.\nBlockquote without attribution  Tiam, ad mint andaepu dandae nostion secatur sequo quae. Note that you can use Markdown syntax within a blockquote.\n Blockquote with attribution  Don\u0026rsquo;t communicate by sharing memory, share memory by communicating.\n— Rob Pike1\n Tables Tables aren\u0026rsquo;t part of the core Markdown spec, but Hugo supports supports them out-of-the-box.\n   Name Age Sex     Bob 27 M   Alice 23 F    Inline Markdown within tables    Inline  Markdown  In  Table     italics bold strikethrough  code    Code Blocks Code block with backticks \u0026lt;!DOCTYPE html\u0026gt;\r\u0026lt;html lang=\u0026quot;en\u0026quot;\u0026gt;\r\u0026lt;head\u0026gt;\r\u0026lt;meta charset=\u0026quot;UTF-8\u0026quot;\u0026gt;\r\u0026lt;title\u0026gt;Example HTML5 Document\u0026lt;/title\u0026gt;\r\u0026lt;/head\u0026gt;\r\u0026lt;body\u0026gt;\r\u0026lt;p\u0026gt;Test\u0026lt;/p\u0026gt;\r\u0026lt;/body\u0026gt;\r\u0026lt;/html\u0026gt;\rCode block indented with four spaces \u0026lt;!DOCTYPE html\u0026gt;\r\u0026lt;html lang=\u0026quot;en\u0026quot;\u0026gt;\r\u0026lt;head\u0026gt;\r\u0026lt;meta charset=\u0026quot;UTF-8\u0026quot;\u0026gt;\r\u0026lt;title\u0026gt;Example HTML5 Document\u0026lt;/title\u0026gt;\r\u0026lt;/head\u0026gt;\r\u0026lt;body\u0026gt;\r\u0026lt;p\u0026gt;Test\u0026lt;/p\u0026gt;\r\u0026lt;/body\u0026gt;\r\u0026lt;/html\u0026gt;\r Code block with Hugo\u0026rsquo;s internal highlight shortcode \u0026lt;!DOCTYPE html\u0026gt; \u0026lt;html lang=\u0026#34;en\u0026#34;\u0026gt; \u0026lt;head\u0026gt; \u0026lt;meta charset=\u0026#34;UTF-8\u0026#34;\u0026gt; \u0026lt;title\u0026gt;Example HTML5 Document\u0026lt;/title\u0026gt; \u0026lt;/head\u0026gt; \u0026lt;body\u0026gt; \u0026lt;p\u0026gt;Test\u0026lt;/p\u0026gt; \u0026lt;/body\u0026gt; \u0026lt;/html\u0026gt; List Types Ordered List  First item Second item Third item  Unordered List  List item Another item And another item  Nested list  Item  First Sub-item Second Sub-item    Other Elements — abbr, sub, sup, kbd, mark GIF is a bitmap image format.\nH2O\nXn + Yn = Zn\nPress CTRL+ALT+Delete to end the session.\nMost salamanders are nocturnal, and hunt for insects, worms, and other small creatures.\n  The above quote is excerpted from Rob Pike\u0026rsquo;s talk during Gopherfest, November 18, 2015. \u0026#x21a9;\u0026#xfe0e;\n  ",
-    "ref": "/uppertonic_test/blog/markdown-syntax/"
+    "ref": "/blog/markdown-syntax/"
   },{
     "title": "Emoji Support",
     "date": "",
     "description": "Guide to emoji usage in Hugo",
     "body": "Emoji can be enabled in a Hugo project in a number of ways.\nThe emojify function can be called directly in templates or Inline Shortcodes.\nTo enable emoji globally, set enableEmoji to true in your site’s configuration and then you can type emoji shorthand codes directly in content files; e.g.\n🙈 :see_no_evil: 🙉 :hear_no_evil: 🙊 :speak_no_evil:\nThe Emoji cheat sheet is a useful reference for emoji shorthand codes.\n N.B. The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.\n.emoji { font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,Android Emoji,EmojiSymbols; }",
-    "ref": "/uppertonic_test/blog/emoji-support/"
+    "ref": "/blog/emoji-support/"
   },{
     "title": "Contact",
     "date": "",
     "description": "",
     "body": "",
-    "ref": "/uppertonic_test/contact/"
+    "ref": "/contact/"
   }]
