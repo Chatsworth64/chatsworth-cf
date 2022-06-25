@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chatsworth Hypnotherapy on Chatsworth</title>
+    <link>/</link>
+    <description>Recent content in Chatsworth Hypnotherapy on Chatsworth</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 25 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hypnotherapy</title>
+      <link>/blog/hypnotherapy/</link>
+      <pubDate>Sat, 25 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/hypnotherapy/</guid>
+      <description>What happens in a hypnotherapy session There are different types of hypnotherapy, and different ways of hypnotising someone.
+First, you&amp;rsquo;ll usually have a talk with your therapist to discuss what you hope to achieve and agree what methods your therapist will use.
+After this, the hypnotherapist may:
+lead you into a deeply relaxed state – most people feel refreshed and relaxed use your agreed methods to help you towards your goals – for example, suggesting that you do not want to carry out a certain habit gradually bring you out of the trance-like state.</description>
+    </item>
+    
+    <item>
+      <title>Stop Smoking!</title>
+      <link>/blog/stop-smoking/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/stop-smoking/</guid>
+      <description>Quit Smoking Stopping smoking is one of the best things you will ever do for your health.
+When you stop, you give your lungs the chance to repair and you will be able to breathe easier. There are lots of other benefits too – and they start almost immediately.
+It&amp;rsquo;s never too late to quit. Let&amp;rsquo;s do this!</description>
+    </item>
+    
+    <item>
+      <title>Video Links</title>
+      <link>/blog/rich-content/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>/about/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hypnotherapy Hypnotherapy uses hypnosis to try to treat conditions or change habits.
+What happens in a hypnotherapy session There are different types of hypnotherapy, and different ways of hypnotising someone.
+First, you&amp;rsquo;ll usually have a talk with your therapist to discuss what you hope to achieve and agree what methods your therapist will use.
+After this, the hypnotherapist may:
+lead you into a deeply relaxed state – most people feel refreshed and relaxed use your agreed methods to help you towards your goals – for example, suggesting that you do not want to carry out a certain habit gradually bring you out of the trance-like state.</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>/blog/markdown-syntax/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>/blog/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

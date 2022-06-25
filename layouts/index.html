@@ -1,0 +1,16 @@
+{{ define "main" }}
+  <article class="main">
+    <header>
+      <div class="title">
+        <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
+        {{ with .Description }}<p>{{ . }}</p>{{ end }}
+      </div>
+    </header>
+    <a href="/" class="image" style="--bg-image: url('/img/pic01.jpg');">
+        <img class="stretchH" src="/img/pic01.jpg" alt="Hypnotherapy">
+      </a>
+    <div id="content">
+      {{ .Content }}
+    </div>
+  </article>
+{{ end }}
