@@ -1,6 +1,6 @@
 +++ 
 draft = false
-date = "2022-06-25"
+date = "2022-06-26"
 title = "Hypnotherapy"
 description = "Hypnotherapy uses hypnosis to try to treat conditions or change habits"
 author = "Jane Smith"
@@ -11,6 +11,8 @@ categories = ["Hypnotherapy"]
   alt = "Hypnotherapy"
   stretch = "h"
 +++
+
+**Edit to correct errors**
 
 ## What happens in a hypnotherapy session
 
