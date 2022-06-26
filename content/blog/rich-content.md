@@ -1,7 +1,7 @@
 +++
 title = "Video Links"
 description = "A short list of Video Content"
-author = "Chatsworth"
+author = "Uppertonic"
 date = "2022-06-20"
 tags = ["shortcodes", "privacy"]
 [[images]]

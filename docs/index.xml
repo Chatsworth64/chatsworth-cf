@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chatsworth Hypnotherapy on Chatsworth</title>
+    <title>Uppertonic Hypnotherapy on Uppertonic</title>
     <link>https://chatsworth.cf/</link>
-    <description>Recent content in Chatsworth Hypnotherapy on Chatsworth</description>
+    <description>Recent content in Uppertonic Hypnotherapy on Uppertonic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chatsworth.cf/index.xml" rel="self" type="application/rss+xml" />
@@ -75,6 +75,15 @@ lead you into a deeply relaxed state – most people feel refreshed and relaxed 
       
       <guid>https://chatsworth.cf/blog/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>https://chatsworth.cf/services/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chatsworth.cf/services/</guid>
+      <description>Service 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque efficitur blandit massa, vitae varius dolor facilisis ut. Aenean egestas nisi vel pellentesque commodo. Integer pellentesque sagittis nisi sit amet fringilla. Pellentesque consectetur odio non metus posuere, quis imperdiet purus blandit. Nulla sit amet dapibus sapien. Praesent nulla ante, facilisis eget feugiat dignissim, ultricies sit amet augue. In sit amet ipsum dui. Cras felis ex, aliquam fringilla imperdiet eu, fermentum at nisi.</description>
     </item>
     
     <item>

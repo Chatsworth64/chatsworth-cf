@@ -9,7 +9,7 @@ categories = ["Hypnotherapy"]
 [[images]]
   src = "img/hypnotherapy-1.jpg"
   alt = "Hypnotherapy"
-  stretch = "h"
+  stretch = "v"
 +++
 
 **Edit to correct errors**

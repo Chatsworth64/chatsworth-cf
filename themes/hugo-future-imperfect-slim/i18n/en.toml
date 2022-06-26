@@ -25,6 +25,9 @@
 [categories]
   one = "Category"
   other = "Categories"
+[services]
+  one = "Service"
+  other = "Services"
 [tags]
   one = "Tag"
   other = "Tags"

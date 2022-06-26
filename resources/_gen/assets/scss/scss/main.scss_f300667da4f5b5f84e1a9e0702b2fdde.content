@@ -144,7 +144,7 @@ h5,
 h6 {
   color: #3b3a3a;
   font-family: "Raleway", Helvetica, sans-serif;
-  letter-spacing: 0.25em;
+  letter-spacing: 0.15em;
   line-height: 1.65;
   text-transform: uppercase; }
   h1 a,

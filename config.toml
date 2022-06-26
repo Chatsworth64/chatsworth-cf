@@ -3,7 +3,7 @@
 
 baseurl                 = "https://chatsworth.cf/"
 DefaultContentLanguage  = "en"
-title                   = "Chatsworth"
+title                   = "Uppertonic"
 theme                   = "hugo-future-imperfect-slim"
 paginate                = 3
 disqusShortname         = ""
@@ -40,8 +40,8 @@ publishDir = "docs"
   tocWords              = 400
 
   [params.meta]
-    description         = "Chatsworth Hypnotherapy. Powered by Hugo."
-    author              = "Chatsworth"
+    description         = "Uppertonic Hypnotherapy"
+    author              = "Uppertonic"
     favicon             = false
     svg                 = false
     faviconVersion      = "1"
@@ -49,15 +49,15 @@ publishDir = "docs"
     iOSColor            = "#ffffff"
 
   [params.header]
-    navbarTitle         = "Chatsworth"
+    navbarTitle         = "Uppertonic"
     dynamicTitles       = true
     searchMenu          = true
     shareMenu           = true
     languageMenu        = false
 
   [params.intro]
-    header                = "Chatsworth Hypnotherapy"
-    paragraph             = "Hypnotherapy and mental health practictioner"
+    header                = "Uppertonic Hypnotherapy"
+    paragraph             = "... tune-in to your potential ..."
     rssIntro              = true
     socialIntro           = true
     hideWhenSingleColumn  = true
@@ -67,7 +67,7 @@ publishDir = "docs"
       src                 = "img/main/logo.jpg"
       shape               = "circle"
       width               = ""
-      alt                 = "Chatsworth"
+      alt                 = "Uppertonic"
 
   [params.sidebar]
     about               = "Mental Health and wellbeing for all"
@@ -139,11 +139,18 @@ publishDir = "docs"
     weight            = 2
 
   [[menu.main]]
-    name              = "Categories"
-    identifier        = "categories"
-    url               = "categories"
+    name              = "Services"
+    identifier        = "services"
+    url               = "services"
     pre               = "<i class='fas fa-sitemap'></i>"
     weight            = 3
+
+#  [[menu.main]]
+#    name              = "Categories"
+#    identifier        = "categories"
+#    url               = "categories"
+#    pre               = "<i class='fas fa-sitemap'></i>"
+#    weight            = 3
 
   [[menu.main]]
     name              = "Contact"
@@ -158,7 +165,6 @@ publishDir = "docs"
     LanguageCode        = "en"
     LanguageName        = "English"
     weight              = 1
-
 
 [social]
   # Coding Communities
