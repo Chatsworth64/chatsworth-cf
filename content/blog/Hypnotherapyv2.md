@@ -15,7 +15,7 @@ categories = ["Hypnotherapy"]
 **Edit to correct errors**
 **Edit to correct errors**
 
-New page
+New page v2
 
 ## What happens in a hypnotherapy session
 
