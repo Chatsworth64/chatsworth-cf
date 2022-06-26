@@ -400,6 +400,15 @@ figcaption {
 /* ==========================================================================
    Classes
    ========================================================================== */
+.main {
+  margin: 1.5em auto;
+  padding: 1em;
+  max-width: 55em; }
+  .main .title {
+    width: 100%; }
+    .main .title h1 {
+      letter-spacing: 0.15em; }
+
 .post {
   background: white;
   margin: 1.5em auto;

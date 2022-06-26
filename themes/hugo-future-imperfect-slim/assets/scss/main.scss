@@ -617,6 +617,20 @@ figcaption {
    Classes
    ========================================================================== */
 
+.main {
+  margin: 1.5em auto;
+  padding: 1em;
+  max-width: 55em;
+
+  .title {
+    width: 100%;
+
+    h1 {
+      letter-spacing: 0.15em;
+    }
+  }
+}
+
 .post {
   background:	$white;
   margin: 1.5em auto;
