@@ -1107,11 +1107,22 @@ figcaption {
 .copyright {
   color: $utility-gray;
   font-family: $header-font;
-  font-size: 0.5em;
+  font-size: 0.7em;
   font-weight: 400;
   letter-spacing: 0.25em;
   text-align: center;
   text-transform: uppercase;
+}
+
+.strapline {
+  color: black;
+  text-transform: lowercase;
+  text-align: center;
+  font-family: $header-font;
+  font-size: 0.84em;
+  font-weight: 600;
+  font-style: italic;
+  letter-spacing: 0.25em;
 }
 
 .socnet-icons {

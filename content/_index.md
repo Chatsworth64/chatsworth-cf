@@ -1,5 +1,5 @@
 +++
-title = "Uppertonic Hypnotherapy"
+title = "Welcome"
 description = ""
 author = ""
 date = ""
@@ -7,7 +7,7 @@ layout = ""
 [[images]]
   src = "img/2019/03/pic01.jpg"
   alt = "Mountain Range Through Clouds"
-  stretch = "horizontal"
+  stretch = "h"
 +++
 
 ## Clinical Hypnotherapy Online
@@ -21,7 +21,6 @@ Cras felis ex, aliquam fringilla imperdiet eu, fermentum at nisi. Morbi sceleris
 {{< youtube kiL7xoCNrgQ >}}
 
 <br>
-
 
 ## Hypnotherapy is safe, effective and durable
 Etiam lobortis eros augue, vitae vehicula risus sodales non. Proin aliquet tortor id maximus dictum. Praesent ornare efficitur maximus. Vivamus elit magna, varius a vulputate sed, consectetur sed dui. Cras eu arcu id mi congue lobortis eu quis dui. Ut pharetra egestas sapien, eget dignissim enim suscipit id. In hac habitasse platea dictumst. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at dolor sapien. Integer vulputate suscipit enim, et mollis justo scelerisque sit amet. Aenean sed tortor maximus, porta purus ut, pulvinar lorem. Donec sit amet nulla a mauris fermentum venenatis a eget ex. Aliquam elementum aliquet lorem, vitae rhoncus eros suscipit interdum.

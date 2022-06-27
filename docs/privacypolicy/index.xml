@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Privacypolicies on Chatsworth</title>
+    <link>https://chatsworth.cf/privacypolicy/</link>
+    <description>Recent content in Privacypolicies on Chatsworth</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chatsworth.cf/privacypolicy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://chatsworth.cf/privacypolicy/privacypolicy/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chatsworth.cf/privacypolicy/privacypolicy/</guid>
+      <description>Privacy Policy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque efficitur blandit massa, vitae varius dolor facilisis ut. Aenean egestas nisi vel pellentesque commodo. Integer pellentesque sagittis nisi sit amet fringilla. Pellentesque consectetur odio non metus posuere, quis imperdiet purus blandit. Nulla sit amet dapibus sapien. Praesent nulla ante, facilisis eget feugiat dignissim, ultricies sit amet augue. In sit amet ipsum dui.
+GDPR Stuff Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,13 +3,14 @@
 
 baseurl                 = "https://chatsworth.cf/"
 DefaultContentLanguage  = "en"
-title                   = "Uppertonic"
+title                   = "Chatsworth"
 theme                   = "hugo-future-imperfect-slim"
 paginate                = 5
 disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = true
 disableLanguages        = []
+#copyright               = "(c) Chatsworth 2022"
 publishDir = "docs"
 
 [markup.goldmark.renderer]
@@ -40,8 +41,8 @@ publishDir = "docs"
   tocWords              = 400
 
   [params.meta]
-    description         = "Uppertonic Hypnotherapy"
-    author              = "Uppertonic"
+    description         = "Chatsworth Hypnotherapy"
+    author              = "Chatsworth"
     favicon             = false
     svg                 = false
     faviconVersion      = "1"
@@ -56,7 +57,7 @@ publishDir = "docs"
     languageMenu        = false
 
   [params.intro]
-    header                = "Uppertonic Hypnotherapy"
+    header                = "Chatsworth Hypnotherapy"
     paragraph             = "... tune-in to your potential ..."
     rssIntro              = true
     socialIntro           = true
@@ -67,10 +68,10 @@ publishDir = "docs"
       src                 = "img/main/logo.jpg"
       shape               = "circle"
       width               = ""
-      alt                 = "Uppertonic"
+      alt                 = "Chatsworth"
 
   [params.sidebar]
-    about               = "... tune-in to your potential ..."
+  #  about               = "... tune-in to your potential ..."
     postAmount          = 5
     categories          = true
     categoriesByCount   = true

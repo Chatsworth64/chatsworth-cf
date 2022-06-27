@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Uppertonic Hypnotherapy on Uppertonic</title>
+    <title>Welcome on Chatsworth</title>
     <link>https://chatsworth.cf/</link>
-    <description>Recent content in Uppertonic Hypnotherapy on Uppertonic</description>
+    <description>Recent content in Welcome on Chatsworth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chatsworth.cf/index.xml" rel="self" type="application/rss+xml" />
@@ -45,8 +45,18 @@ It&amp;rsquo;s never too late to quit. Let&amp;rsquo;s do this!</description>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://chatsworth.cf/about/</guid>
-      <description>Jane Smith - (qual1) (qual2) (qual3) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque efficitur blandit massa, vitae varius dolor facilisis ut. Aenean egestas nisi vel pellentesque commodo. Integer pellentesque sagittis nisi sit amet fringilla. Pellentesque consectetur odio non metus posuere, quis imperdiet purus blandit. Nulla sit amet dapibus sapien. Praesent nulla ante, facilisis eget feugiat dignissim, ultricies sit amet augue. In sit amet ipsum dui.
+      <description>Anon Hypno - (qual1) (qual2) (qual3) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque efficitur blandit massa, vitae varius dolor facilisis ut. Aenean egestas nisi vel pellentesque commodo. Integer pellentesque sagittis nisi sit amet fringilla. Pellentesque consectetur odio non metus posuere, quis imperdiet purus blandit. Nulla sit amet dapibus sapien. Praesent nulla ante, facilisis eget feugiat dignissim, ultricies sit amet augue. In sit amet ipsum dui.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://chatsworth.cf/privacypolicy/privacypolicy/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chatsworth.cf/privacypolicy/privacypolicy/</guid>
+      <description>Privacy Policy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque efficitur blandit massa, vitae varius dolor facilisis ut. Aenean egestas nisi vel pellentesque commodo. Integer pellentesque sagittis nisi sit amet fringilla. Pellentesque consectetur odio non metus posuere, quis imperdiet purus blandit. Nulla sit amet dapibus sapien. Praesent nulla ante, facilisis eget feugiat dignissim, ultricies sit amet augue. In sit amet ipsum dui.
+GDPR Stuff Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
     </item>
     
     <item>
@@ -64,7 +74,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://chatsworth.cf/contact/</guid>
-      <description>Please feel free to send me a message or contact request using the form below </description>
+      <description>Please send me a message using the form below. </description>
     </item>
     
   </channel>

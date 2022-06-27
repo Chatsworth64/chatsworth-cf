@@ -3,7 +3,7 @@ draft = false
 date = "2022-06-26"
 title = "Hypnotherapy"
 description = "Hypnotherapy uses hypnosis to try to treat conditions or change habits"
-author = "Jane Smith"
+author = "Anon Hypno"
 tags = ["test tag1","test tag2","Hypnotherapy"]
 categories = ["Hypnotherapy"]
 [[images]]

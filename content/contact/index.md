@@ -6,4 +6,4 @@ emailservice = "https://formspree.io/f/mnqwrglv"
 contactanswertime = 48
 +++
 
-#### Please feel free to send me a message or contact request using the form below
+#### Please send me a message using the form below.

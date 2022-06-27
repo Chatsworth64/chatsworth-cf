@@ -1,7 +1,7 @@
 +++
 title = "Services"
-description = "Jane Smith - Hypnotherapist"
-author = "Uppertonic"
+description = "Anon Hypno - Hypnotherapist"
+author = "Chatsworth"
 date = "2022-06-01"
 layout = "services"
 +++
