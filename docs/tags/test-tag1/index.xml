@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test tag1 on Uppertonic</title>
+    <link>https://chatsworth.cf/tags/test-tag1/</link>
+    <description>Recent content in test tag1 on Uppertonic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chatsworth.cf/tags/test-tag1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hypnotherapy</title>
+      <link>https://chatsworth.cf/blog/hypnotherapy/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chatsworth.cf/blog/hypnotherapy/</guid>
+      <description>What happens in a hypnotherapy session There are different types of hypnotherapy, and different ways of hypnotising someone.
+First, you&amp;rsquo;ll usually have a talk with your therapist to discuss what you hope to achieve and agree what methods your therapist will use.
+After this, the hypnotherapist may:
+ lead you into a deeply relaxed state – most people feel refreshed and relaxed use your agreed methods to help you towards your goals – for example, suggesting that you do not want to carry out a certain habit gradually bring you out of the trance-like state.</description>
+    </item>
+    
+  </channel>
+</rss>

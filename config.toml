@@ -5,7 +5,7 @@ baseurl                 = "https://chatsworth.cf/"
 DefaultContentLanguage  = "en"
 title                   = "Uppertonic"
 theme                   = "hugo-future-imperfect-slim"
-paginate                = 3
+paginate                = 5
 disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = true
@@ -20,11 +20,11 @@ publishDir = "docs"
   extended              = true
   min                   = "0.62.0"
 
-[outputs]
-  home                  = ["html", "json", "rss"]
+#[outputs]
+#  home                  = ["html", "json", "rss"]
 
 [params]
-  enableCDN             = false
+  enableCDN             = true
   cssFiles              = ["default"]
   jsFiles               = ["default"]
   highlightjs           = true
@@ -49,7 +49,7 @@ publishDir = "docs"
     iOSColor            = "#ffffff"
 
   [params.header]
-    navbarTitle         = "Uppertonic"
+    navbarTitle         = "Homepage"
     dynamicTitles       = true
     searchMenu          = true
     shareMenu           = true
@@ -70,10 +70,12 @@ publishDir = "docs"
       alt                 = "Uppertonic"
 
   [params.sidebar]
-    about               = "Mental Health and wellbeing for all"
+    about               = "... tune-in to your potential ..."
     postAmount          = 5
     categories          = true
     categoriesByCount   = true
+    tags                = true
+    tagsByCount         = true
 
   [params.footer]
     rssFooter           = true
@@ -144,13 +146,6 @@ publishDir = "docs"
     url               = "services"
     pre               = "<i class='fas fa-sitemap'></i>"
     weight            = 3
-
-#  [[menu.main]]
-#    name              = "Categories"
-#    identifier        = "categories"
-#    url               = "categories"
-#    pre               = "<i class='fas fa-sitemap'></i>"
-#    weight            = 3
 
   [[menu.main]]
     name              = "Contact"

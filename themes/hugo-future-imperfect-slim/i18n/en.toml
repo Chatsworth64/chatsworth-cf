@@ -81,6 +81,6 @@
 [404_pagenotfound]
   other = "Page Not Found"
 [404_sorry]
-  other = "Sorry, but the page you were trying to view does not exist."
+  other = "I'm sorry, but the page you were trying to view does not exist."
 [404_back]
   other = "Go Back"

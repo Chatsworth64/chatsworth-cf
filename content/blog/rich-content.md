@@ -5,6 +5,7 @@ description = "A short list of Video Content"
 author = "Uppertonic"
 date = "2022-06-20"
 tags = ["shortcodes", "privacy"]
+categories = ["shortcodes", "privacy"]
 [[images]]
   src = "img/main/logo.jpg"
   alt = "Uppertonic"

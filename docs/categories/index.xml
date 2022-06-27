@@ -25,5 +25,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>privacy</title>
+      <link>https://chatsworth.cf/categories/privacy/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chatsworth.cf/categories/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shortcodes</title>
+      <link>https://chatsworth.cf/categories/shortcodes/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chatsworth.cf/categories/shortcodes/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

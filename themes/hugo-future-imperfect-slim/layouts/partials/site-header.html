@@ -9,9 +9,9 @@
     <h1 class="nav-title">
       <a href="{{ "/" | relLangURL }}" class="nav">
         {{ if or .IsHome (not .Site.Params.header.dynamicTitles) }}
-          {{ .Site.Params.header.navbarTitle  | safeHTML }}
+          {{ .Site.Params.header.navbarTitle | safeHTML }}
         {{ else }}
-          {{ i18n .Section | default .Title }}
+           {{ .Site.Params.header.navbarTitle | safeHTML }} -> {{ default .Title | safeHTML }}
         {{ end }}
       </a>
     </h1>

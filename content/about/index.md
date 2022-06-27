@@ -1,27 +1,15 @@
 +++
 title = "About me"
-description = "Jane Smith - Hypnotherapist"
+description = ""
 author = "Uppertonic"
 date = "2022-06-01"
 layout = "about"
 +++
 
-## Hypnotherapy
-Hypnotherapy uses hypnosis to try to treat conditions or change habits.
+### Jane Smith - (qual1) (qual2) (qual3)
 
-## What happens in a hypnotherapy session
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque efficitur blandit massa, vitae varius dolor facilisis ut. Aenean egestas nisi vel pellentesque commodo. Integer pellentesque sagittis nisi sit amet fringilla. Pellentesque consectetur odio non metus posuere, quis imperdiet purus blandit. Nulla sit amet dapibus sapien. Praesent nulla ante, facilisis eget feugiat dignissim, ultricies sit amet augue. In sit amet ipsum dui.
 
-There are different types of hypnotherapy, and different ways of hypnotising someone.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque efficitur blandit massa, vitae varius dolor facilisis ut. Aenean egestas nisi vel pellentesque commodo. Integer pellentesque sagittis nisi sit amet fringilla. Pellentesque consectetur odio non metus posuere, quis imperdiet purus blandit. Nulla sit amet dapibus sapien. Praesent nulla ante, facilisis eget feugiat dignissim, ultricies sit amet augue. In sit amet ipsum dui.
 
-First, you'll usually have a talk with your therapist to discuss what you hope to achieve and agree what methods your therapist will use.
-
-After this, the hypnotherapist may:
-
-lead you into a deeply relaxed state – most people feel refreshed and relaxed
-use your agreed methods to help you towards your goals – for example, suggesting that you do not want to carry out a certain habit
-gradually bring you out of the trance-like state. Most people feel refreshed and relaxed
-You're fully in control when under hypnosis and do not have to take on the therapist's suggestions if you do not want to.
-
-If necessary, you can bring yourself out of the hypnotic state.
-
-Hypnosis does not work if you do not want to be hypnotised.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque efficitur blandit massa, vitae varius dolor facilisis ut. Aenean egestas nisi vel pellentesque commodo. Integer pellentesque sagittis nisi sit amet fringilla. Pellentesque consectetur odio non metus posuere, quis imperdiet purus blandit. Nulla sit amet dapibus sapien. Praesent nulla ante, facilisis eget feugiat dignissim, ultricies sit amet augue. In sit amet ipsum dui.
