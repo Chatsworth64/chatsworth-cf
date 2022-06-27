@@ -1,8 +1,9 @@
 +++
+draft = true
 title = "Markdown Syntax Guide"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 author = "Hugo Authors"
-date = "2022-06-01"
+date = "2022-06-02"
 tags = ["markdown", "css", "html", "themes"]
 categories = ["themes", "syntax"]
 [[images]]

@@ -12,11 +12,6 @@ categories = ["Hypnotherapy"]
   stretch = "v"
 +++
 
-**Edit to correct errors**
-**Edit to correct errors**
-
-New page
-
 ## What happens in a hypnotherapy session
 
 There are different types of hypnotherapy, and different ways of hypnotising someone.
