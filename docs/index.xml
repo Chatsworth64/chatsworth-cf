@@ -50,13 +50,23 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>https://chatsworth.cf/privacypolicy/privacypolicy/</link>
+      <title>Cookie Policy</title>
+      <link>https://chatsworth.cf/cookiepolicy/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://chatsworth.cf/privacypolicy/privacypolicy/</guid>
-      <description>Privacy Policy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque efficitur blandit massa, vitae varius dolor facilisis ut. Aenean egestas nisi vel pellentesque commodo. Integer pellentesque sagittis nisi sit amet fringilla. Pellentesque consectetur odio non metus posuere, quis imperdiet purus blandit. Nulla sit amet dapibus sapien. Praesent nulla ante, facilisis eget feugiat dignissim, ultricies sit amet augue. In sit amet ipsum dui.
-GDPR Stuff Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+      <guid>https://chatsworth.cf/cookiepolicy/</guid>
+      <description>Cookie Usage Our website uses Cookies to help us provide you with a useful and reliable browsing experience and to help us improve our site. Cookies are small files of letters and numbers that are stored on your device. When someone visits our website, we collect standard internet log information and details of visitor behaviour patterns. We collect this information in a way which does not personally identify anyone.
+Cookies are small text files that are placed on your device to help our website provide a better user experience.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://chatsworth.cf/privacypolicy/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://chatsworth.cf/privacypolicy/</guid>
+      <description>This website is operated by Chatsworth and whose registered address is &amp;ldquo;Chatsworth Address&amp;rdquo; (“We”) are committed to protecting and preserving the privacy of our visitors when visiting our site or communicating electronically with us.
+This policy sets out how we process any personal data we collect from you or that you provide to us through our website. We confirm that we will keep your information secure and that we will comply fully with all applicable UK Data Protection legislation and regulations.</description>
     </item>
     
     <item>

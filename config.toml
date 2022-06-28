@@ -105,25 +105,30 @@ publishDir = "docs"
 [privacy]
   [privacy.disqus]
     disable = true
+  
   [privacy.googleAnalytics]
-    anonymizeIP = false
-    disable = true
-    respectDoNotTrack = false
-    useSessionStorage = false
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = true
+    useSessionStorage = true
+  
   [privacy.instagram]
     disable = true
     simple = false
+  
   [privacy.twitter]
     disable = false
-    enableDNT = false
-    simple = false
+    enableDNT = true
+    simple = true
+  
   [privacy.vimeo]
     disable = false
-    enableDNT = false
-    simple = false
+    enableDNT = true
+    simple = true
+  
   [privacy.youtube]
     disable = false
-    privacyEnhanced = false
+    privacyEnhanced = true
 
 [menu]
 

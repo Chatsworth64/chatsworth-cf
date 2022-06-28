@@ -16,4 +16,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque efficitur 
 
 ### Privacy Policy
 
-[Click here for my privacy policy]({{< ref "/privacypolicy/privacypolicy.md" >}} "Privacy Policy")
+[Click here for my privacy policy]({{< ref "/privacypolicy" >}} "Privacy Policy")

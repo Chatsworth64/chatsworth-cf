@@ -4,8 +4,8 @@ title = "Video Links"
 description = "A short list of Video Content"
 author = "Chatsworth"
 date = "2022-06-20"
-tags = ["shortcodes", "privacy"]
-categories = ["shortcodes", "privacy"]
+tags =  ["shortcodes", "Youtube", "Twitter", "Vimeo"]
+categories = ["shortcodes", "Youtube", "Twitter", "Vimeo"]
 [[images]]
   src = "img/main/logo.jpg"
   alt = "Chatsworth"
