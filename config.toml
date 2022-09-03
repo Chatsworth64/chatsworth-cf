@@ -3,7 +3,7 @@
 
 baseurl                 = "https://chatsworth.cf/"
 DefaultContentLanguage  = "en"
-title                   = "Chatsworthx"
+title                   = "Chatsworth"
 theme                   = "hugo-future-imperfect-slim"
 paginate                = 5
 disqusShortname         = ""
