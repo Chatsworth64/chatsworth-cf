@@ -7,7 +7,7 @@ author = "Anon Hypno"
 tags = ["Smoking"]
 categories = ["Smoking"]
 [[images]]
-  src = "img/smoking-1.jpg"
+  src = "img/smoking-1.webp"
   alt = "Smoking"
   stretch = "v"
 +++

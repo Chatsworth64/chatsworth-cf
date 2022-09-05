@@ -124,7 +124,7 @@ exampleSite
 │   ├── img
 │   │   ├── 2014
 │   │   │   ├── 04
-│   │   │   │   ├── pic01.jpg
+│   │   │   │   ├── pic01.webp
 │   │   │   │   └── pic02.jpg
 │   │   │   └── 09
 │   │   │       └── pic03.jpg
@@ -132,7 +132,7 @@ exampleSite
 │   │   │   └── 08
 │   │   │       └── pic04.jpg
 │   │   └── main
-│   │       └── logo.jpg
+│   │       └── logo.webp
 │   └── js
 │       └── add-on.js
 └── config.toml

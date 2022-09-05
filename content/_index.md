@@ -5,9 +5,8 @@ author = ""
 date = ""
 layout = ""
 [[images]]
-  src = "img/2019/03/pic01.jpg"
+  src = "img/2019/03/pic01.webp"
   alt = "Mountain Range Through Clouds"
-  stretch = "h"
 +++
 
 ## Clinical Hypnotherapy Online
