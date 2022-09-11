@@ -10,8 +10,9 @@ disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = true
 disableLanguages        = []
-#copyright               = "(c) Chatsworth 2022"
-publishDir = "docs"
+copyright               = "(c) Chatsworth 2022"
+publishDir              = "docs"
+enableRobotsTXT         = true
 
 [markup.goldmark.renderer]
   unsafe                = true
@@ -21,8 +22,8 @@ publishDir = "docs"
   extended              = true
   min                   = "0.62.0"
 
-#[outputs]
-#  home                  = ["html", "json", "rss"]
+[outputs]
+  home                  = ["html", "json", "rss"]
 
 [params]
   enableCDN             = true
@@ -186,4 +187,4 @@ publishDir = "docs"
   skype                 = ""
   snapchat              = ""
   # Email
-  email                 = "example"
+  email                 = "info@chatsworth.cf"
