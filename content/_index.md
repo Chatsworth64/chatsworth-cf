@@ -4,9 +4,6 @@ description = ""
 author = ""
 date = ""
 layout = ""
-[[images]]
-  src = "img/pic03.jpg"
-  alt = "Mountain Range Through Clouds"
 +++
 
 ## Clinical Hypnotherapy Online

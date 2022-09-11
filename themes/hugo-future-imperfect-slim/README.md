@@ -124,7 +124,7 @@ exampleSite
 │   ├── img
 │   │   ├── 2014
 │   │   │   ├── 04
-│   │   │   │   ├── pic01.webp
+│   │   │   │   ├── pic01.jpg
 │   │   │   │   └── pic02.jpg
 │   │   │   └── 09
 │   │   │       └── pic03.jpg
