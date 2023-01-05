@@ -68,7 +68,7 @@ enableRobotsTXT         = true
     alwaysOnHomepage      = true
 
     [params.intro.pic]
-      src                 = "img/main/logopic.jpg"
+      src                 = "img/logo.webp"
       shape               = "circle"
       width               = ""
       alt                 = "Chatsworth"
@@ -120,7 +120,7 @@ enableRobotsTXT         = true
     simple = false
   
   [privacy.twitter]
-    disable = false
+    disable = true
     enableDNT = true
     simple = true
   
@@ -176,7 +176,7 @@ enableRobotsTXT         = true
   gitlab                = ""
   wordpress             = ""
   # Professional/Business Oriented Communities
-  linkedin              = "example"
+  linkedin              = ""
   linkedin_company      = ""
   # Social Networks
   facebook              = ""
@@ -185,7 +185,7 @@ enableRobotsTXT         = true
   vimeo                 = ""
   whatsapp              = "" # WhatsApp Number
   instagram             = ""
-  twitter               = "example"
+  twitter               = ""
   skype                 = ""
   snapchat              = ""
   # Email

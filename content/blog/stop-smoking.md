@@ -7,7 +7,7 @@ author = "Anon"
 tags = ["Smoking"]
 categories = ["Smoking"]
 [[images]]
-  src = "img/smoking-1.webp"
+  src = "img/smoking.webp"
   alt = "Smoking"
   stretch = "v"
 +++

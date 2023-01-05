@@ -7,7 +7,7 @@ author = "anon"
 tags = ["Hypnotherapy"]
 categories = ["Hypnotherapy"]
 [[images]]
-  src = "img/hypnotherapy-1.jpg"
+  src = "img/hypnotherapy.webp"
   alt = "Hypnotherapy"
   stretch = "v"
 +++
