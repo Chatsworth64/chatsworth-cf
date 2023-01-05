@@ -1,7 +1,7 @@
 +++
 title = "Privacy Policy"
 description = ""
-author = ""
+authors = [""]
 date = "2022-06-01"
 layout = "standard"
 +++

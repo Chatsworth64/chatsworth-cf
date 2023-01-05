@@ -10,7 +10,7 @@ disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = true
 disableLanguages        = []
-copyright               = "(c) Chatsworth 2022"
+#copyright               = "(c) Chatsworth 2023"
 publishDir              = "docs"
 enableRobotsTXT         = true
 
@@ -40,6 +40,7 @@ enableRobotsTXT         = true
   hideEmptyStats        = false
   toc                   = true
   tocWords              = 400
+  author                = "Amanda Upperton"
 
   [params.meta]
     description         = "Chatsworth Hypnotherapy"
@@ -66,7 +67,7 @@ enableRobotsTXT         = true
     alwaysOnHomepage      = true
 
     [params.intro.pic]
-      src                 = "img/main/logo.webp"
+      src                 = "img/main/logopic.jpg"
       shape               = "circle"
       width               = ""
       alt                 = "Chatsworth"
@@ -188,3 +189,4 @@ enableRobotsTXT         = true
   snapchat              = ""
   # Email
   email                 = "info@chatsworth.cf"
+

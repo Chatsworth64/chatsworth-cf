@@ -3,7 +3,7 @@ draft = false
 date = "2022-06-24"
 title = "Stop Smoking!"
 description = "It's really bad for you"
-author = "Anon Hypno"
+author = "Amanda Upperton"
 tags = ["Smoking"]
 categories = ["Smoking"]
 [[images]]

@@ -1,7 +1,7 @@
 +++
 title = "Welcome"
 description = ""
-author = ""
+authors = [""]
 date = ""
 layout = ""
 +++
