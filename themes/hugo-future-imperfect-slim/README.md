@@ -132,7 +132,7 @@ exampleSite
 │   │   │   └── 08
 │   │   │       └── pic04.jpg
 │   │   └── main
-│   │       └── logo.webp
+│   │       └── logo.jpg
 │   └── js
 │       └── add-on.js
 └── config.toml

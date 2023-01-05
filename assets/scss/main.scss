@@ -28,8 +28,8 @@ $code-font: "Courier New", monospace;
 $fa-free-font: "Font Awesome 5 Free";
 $fa-brands-font: "Font Awesome 5 Brands";
 $header-color: 	hsl(0, 1%, 23%);
-$accent-color: 	hsl(175, 60%, 45%);
-$accent-hover: hsla(175, 60%, 45%, 0.25);
+$accent-color: 	hsl(208, 100%, 50%);
+$accent-hover: hsla(208, 100%, 50%, 0.25);
 $warning-color: hsl(332, 60%, 45%);
 $warning-hover: hsla(332, 60%, 45%, 0.25);
 $utility-gray: hsl(0, 0%, 67%);
@@ -277,7 +277,7 @@ textarea {
    ========================================================================== */
 
 body {
-  background: $utility-white;
+  background: rgb(210, 230, 240);
   margin-top: 3.5em;
   max-width: 100vw;
   -ms-overflow-style: scrollbar;
@@ -321,7 +321,7 @@ h5,
 h6 {
   color: $header-color;
   font-family: $header-font;
-  letter-spacing: 0.25em;
+  letter-spacing: 0.15em;
   line-height: 1.65;
   text-transform: uppercase;
   a {
@@ -614,6 +614,20 @@ figcaption {
 /* ==========================================================================
    Classes
    ========================================================================== */
+
+.main {
+  margin: 1.5em auto;
+  padding: 1em;
+  max-width: 55em;
+
+  .title {
+    width: 100%;
+
+    h1 {
+      letter-spacing: 0.15em;
+    }
+  }
+}
 
 .post {
   background:	$white;
@@ -1091,11 +1105,22 @@ figcaption {
 .copyright {
   color: $utility-gray;
   font-family: $header-font;
-  font-size: 0.5em;
+  font-size: 0.7em;
   font-weight: 400;
   letter-spacing: 0.25em;
   text-align: center;
   text-transform: uppercase;
+}
+
+.strapline {
+  color: black;
+  text-transform: lowercase;
+  text-align: center;
+  font-family: $header-font;
+  font-size: 0.84em;
+  font-weight: 600;
+  font-style: italic;
+  letter-spacing: 0.25em;
 }
 
 .socnet-icons {

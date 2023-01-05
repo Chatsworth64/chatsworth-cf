@@ -62,7 +62,7 @@ disableLanguages        = []
     alwaysOnHomepage      = false
 
     [params.intro.pic]
-      src                 = "img/main/logo.webp"
+      src                 = "img/main/logo.jpg"
       shape               = "circle"
       width               = ""
       alt                 = "Hugo Future Imperfect Slim"
@@ -100,32 +100,39 @@ disableLanguages        = []
 [menu]
 
   [[menu.main]]
+    name              = "Home"
+    identifier        = "home"
+    url               = ""
+    pre               = "<i class='fa fa-home'></i>"
+    weight            = 1
+
+  [[menu.main]]
     name              = "About"
     identifier        = "about"
     url               = "about"
     pre               = "<i class='far fa-id-card'></i>"
-    weight            = 1
+    weight            = 2
 
   [[menu.main]]
     name              = "Blog"
     identifier        = "blog"
     url               = "blog"
     pre               = "<i class='far fa-newspaper'></i>"
-    weight            = 2
+    weight            = 3
 
   [[menu.main]]
     name              = "Categories"
     identifier        = "categories"
     url               = "categories"
     pre               = "<i class='fas fa-sitemap'></i>"
-    weight            = 3
+    weight            = 5
 
   [[menu.main]]
     name              = "Contact"
     identifier        = "contact"
     url               = "contact"
     pre               = "<i class='far fa-envelope'></i>"
-    weight            = 4
+    weight            = 6
 
 [Languages]
 

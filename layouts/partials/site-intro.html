@@ -3,9 +3,9 @@
   <header>
     {{ with .Site.Params.intro.header }}<h1>{{ . | safeHTML }}</h1>{{ end }}
   </header>
-  <main>
-    {{ with .Site.Params.intro.paragraph }}<p>{{ . | safeHTML }}</p>{{ end }}
-  </main>
+  <strap class="strapline">
+        {{ with .Site.Params.intro.paragraph }}<p>{{ . | safeHTML }}</p>{{ end }}
+  </strap>
   {{ if or (.Site.Params.intro.rssIntro) (.Site.Params.intro.socialIntro) }}
     <footer>
       <ul class="socnet-icons">

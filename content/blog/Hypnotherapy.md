@@ -3,8 +3,8 @@ draft = false
 date = "2022-06-26"
 title = "Hypnotherapy"
 description = "Hypnotherapy uses hypnosis to try to treat conditions or change habits"
-author = "Amanda Upperton"
-tags = ["test tag1","test tag2","Hypnotherapy"]
+author = "anon"
+tags = ["Hypnotherapy"]
 categories = ["Hypnotherapy"]
 [[images]]
   src = "img/hypnotherapy-1.jpg"

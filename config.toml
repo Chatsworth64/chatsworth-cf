@@ -3,6 +3,7 @@
 
 baseurl                 = "https://chatsworth.cf/"
 DefaultContentLanguage  = "en"
+defaultContentLanguageInSubdir = true
 title                   = "Chatsworth"
 theme                   = "hugo-future-imperfect-slim"
 paginate                = 5
