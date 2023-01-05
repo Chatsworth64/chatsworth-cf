@@ -41,7 +41,7 @@ enableRobotsTXT         = true
   hideEmptyStats        = false
   toc                   = true
   tocWords              = 400
-  author                = "Amanda Upperton"
+  author                = "Anon"
 
   [params.meta]
     description         = "Chatsworth Hypnotherapy"
