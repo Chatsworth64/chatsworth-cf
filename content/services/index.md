@@ -1,6 +1,6 @@
 +++
 title = "Services"
-description = "Anon Hypno - Hypnotherapist"
+description = ""
 author = "Chatsworth"
 date = "2022-06-01"
 layout = "services"

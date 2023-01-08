@@ -25,7 +25,7 @@
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:400,800,900|Source+Sans+Pro:400,700">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css">
         <script src="https://kit.fontawesome.com/be54eb011a.js" crossorigin="anonymous"></script>
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css"><link rel="stylesheet" href="/css/main.min.b83f453b2905351ea376983111b7e7cf2f44da5331ea1f40e1d5ea407a5bc26f.css" integrity="sha256-uD9FOykFNR6jdpgxEbfnzy9E2lMx6h9A4dXqQHpbwm8="><link rel="stylesheet" href="/css/add-on.css"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css"><link rel="stylesheet" href="/css/main.min.7041759b0c9ce829f4105d2cd6974a4ef2818577accd25d0a889b2c14cbbf8bd.css" integrity="sha256-cEF1mwyc6Cn0EF0s1pdKTvKBhXeszSXQqImywUy7&#43;L0="><link rel="stylesheet" href="/css/add-on.css"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
   <link rel="manifest" href="/site.webmanifest">
@@ -120,7 +120,7 @@
     <h1>Chatsworth Hypnotherapy</h1>
   </header>
   <strap class="strapline">
-        <p>... tune-in to your potential ...</p>
+        <p>Tune-in to your potential</p>
   </strap>
   
     <footer>
@@ -185,31 +185,47 @@
     </header>
       <div id="content">
         <h4 id="please-send-me-a-message-using-the-form-below">Please send me a message using the form below.</h4>
-
+<form method="post" action="https://forms.un-static.com/forms/d5d289faf37fdfafcedd27cff559e83388488267">
+  <div class="form-group row">
+    <label for="name" class="col-4 col-form-label">Name</label>
+    <div class="col-8">
+      <div class="input-group">
+        <div class="input-group-addon">
+          <i class="fa fa-user"></i>
+        </div>
+        <input id="name" name="name" placeholder="Please enter your name" type="text" required="required" class="form-control">
+      </div>
+    </div>
+  </div>
+  <div class="form-group row">
+    <label for="email" class="col-4 col-form-label">E-mail address</label>
+    <div class="col-8">
+      <div class="input-group">
+        <div class="input-group-addon">
+          <i class="fa fa-envelope"></i>
+        </div>
+        <input id="email" name="email" placeholder="Your e-mail address" type="text" required="required" class="form-control">
+      </div>
+    </div>
+  </div>
+  <div class="form-group row">
+    <label for="message" class="col-4 col-form-label">Message</label>
+    <div class="col-8">
+      <textarea id="message" name="message" cols="40" rows="10" required="required" class="form-control"></textarea>
+    </div>
+  </div>
+  <div class="form-group row">
+    <div class="offset-4 col-8">
+      <button name="submit" type="submit" class="btn btn-primary">Send</button>
+    </div>
+  </div>
+  <div class="text-center">
+  </div>
+</form>
         <div class="contact-container">
           
-            <form id="contact" action="https://formspree.io/f/mnqwrglv" method="post" center width="300px">
           
           <h4>Replies typically within 48 hours.</h4>
-          <fieldset>
-            <input placeholder="Your Name" type="text" name="name" tabindex="1" required autofocus>
-          </fieldset>
-          <fieldset>
-            <input placeholder="Your Email" type="email" name="_replyto" tabindex="2" required>
-          </fieldset>
-          <fieldset>
-            <input placeholder="Your Subject" type="text" name="_subject" tabindex="3" required>
-          </fieldset>
-          <fieldset>
-            <textarea placeholder="Your Message" type="text" name="message" tabindex="4" required></textarea>
-          </fieldset>
-          <fieldset>
-            <input type="hidden" name="_language" value="en">
-          </fieldset>
-          <fieldset>
-            <div data-netlify-recaptcha="true"></div>
-            <button name="submit" class="button" type="submit" id="contact-submit" tabindex="5">Submit</button>
-          </fieldset>
         </form>
       </div>
     </div>
@@ -344,7 +360,7 @@
       </ul>
   
   <p class="copyright">
-    © 2022 Anon
+    (c) Chatsworth
       <br>
     Powered by <a href='https://gohugo.io/' title='0.109.0' target='_blank' rel='noopener'>Hugo</a><br><a href='/privacypolicy' target='_blank' rel='noopener'>Privacy Policy</a>
   </p>

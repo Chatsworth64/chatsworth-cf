@@ -11,7 +11,7 @@ disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = true
 disableLanguages        = []
-#copyright               = "(c) Chatsworth 2023"
+copyright               = "(c) Chatsworth"
 publishDir              = "docs"
 enableRobotsTXT         = true
 
@@ -61,7 +61,7 @@ enableRobotsTXT         = true
 
   [params.intro]
     header                = "Chatsworth Hypnotherapy"
-    paragraph             = "... tune-in to your potential ..."
+    paragraph             = "Tune-in to your potential"
     rssIntro              = true
     socialIntro           = true
     hideWhenSingleColumn  = true

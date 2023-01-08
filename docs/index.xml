@@ -6,6 +6,7 @@
     <description>Recent content in Welcome on Chatsworth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <copyright>(c) Chatsworth</copyright>
     <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chatsworth.cf/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hypnotherapy</title>
@@ -75,7 +76,7 @@ This policy sets out how we process any personal data we collect from you or tha
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://chatsworth.cf/contact/</guid>
-      <description>Please send me a message using the form below. </description>
+      <description>Please send me a message using the form below. NameE-mail addressMessageSend</description>
     </item>
     
   </channel>
