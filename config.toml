@@ -58,6 +58,7 @@ enableRobotsTXT         = true
     searchMenu          = true
     shareMenu           = true
     languageMenu        = false
+    darkbutton          = true
 
   [params.intro]
     header                = "Chatsworth Hypnotherapy"

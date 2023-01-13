@@ -971,6 +971,7 @@ figcaption {
 }
 
 .share-toggle,
+.dark-toggle,
 .search-toggle {
   display: none;
   @include for-tablet-up {
@@ -1189,12 +1190,17 @@ figcaption {
         box-shadow: none;
       }
     }
+    .dark-toggle {
+      display: inline-flex;
+      flex-basis: 100%;
+      order: 1;
+    }
     .search-toggle {
       display: inline-flex;
       flex-basis: 100%;
       order: 1;
     }
-    .share-toggle, .search-toggle {
+    .share-toggle, .dark-toggle, .search-toggle {
       display: block;
       flex-basis: 100%;
       order: 3;
@@ -1325,9 +1331,6 @@ figcaption {
     margin: auto;
     width: max-content;
   }
-}
-
-#categories {
 }
 
 #recent-posts {
