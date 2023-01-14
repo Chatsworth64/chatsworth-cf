@@ -75,7 +75,7 @@ enableRobotsTXT         = true
       alt                 = "Chatsworth"
 
   [params.sidebar]
-  #  about               = "... tune-in to your potential ..."
+  #  about               = "tune-in to your potential"
     postAmount          = 5
     categories          = true
     categoriesByCount   = true
