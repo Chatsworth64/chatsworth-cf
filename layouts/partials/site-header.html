@@ -5,6 +5,7 @@
   {{ partial "theme-notification" . }}
 {{ end }}
 <header id="site-header">
+  <link disabled rel="preload" id="dark-theme" onload="this.onload=null;this.rel='stylesheet'" href="/css/dark.css" type="text/css" as="style">
   <nav id="site-nav">
     <h1 class="nav-title">
       <a href="{{ "/" | relLangURL }}" class="nav">
@@ -29,7 +30,7 @@
       {{ if .Site.Params.header.searchMenu }}<a href="#search-input" class="nav link search-toggle"><i class="fas fa-search">&nbsp;</i>Search</a>{{ end }}
     </menu>
     {{ if .Site.Params.header.searchMenu }}<a href="#search-input" class="nav search-toggle"><i class="fas fa-search fa-2x">&nbsp;</i></a>{{ end }}
-    <a id="dark-toggle" class="nav dark-toggle" aria-label="dark-mode-toggle"><i class="fas fa-sun fa-2x">&nbsp;</i></a>
+    <a id="dark-toggle" class="nav dark-toggle" aria-label="dark-mode-toggle" role=""><i class="fas fa-sun fa-2x">&nbsp;</i></a>
     {{ if .Site.Params.header.shareMenu }}<a href="#share-menu" class="nav share-toggle"><i class="fas fa-share-alt fa-2x">&nbsp;</i></a>{{ end }}
     {{ if .Site.Params.header.languageMenu }}<a href="#lang-menu" class="nav lang-toggle" lang="{{ .Site.Language.Lang }}">{{ .Site.Language.Lang }}</a>{{ end }}
     <a href="#site-nav" class="nav nav-toggle"><i class="fas fa-bars fa-2x"></i></a>

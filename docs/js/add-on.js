@@ -19,6 +19,7 @@ function setThemeMode(mode) {
     darkCSS.prop('disabled', true)
     darkToggleIcon.attr('class', darkIconClass)
   }
+  localStorage.setItem("dark-theme", mode);
 }
 
 // Toggle dark mode when user click on the icon button
@@ -30,4 +31,5 @@ $("#dark-toggle").click(function () {
   }
 });
 
-setThemeMode(localStorage.getItem("dark-mode-theme") || "light");
+var savedTheme = localStorage.getItem("dark-theme") || "light";
+setThemeMode(savedTheme)
