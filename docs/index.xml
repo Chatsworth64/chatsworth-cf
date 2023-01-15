@@ -7,28 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>(c) Chatsworth</copyright>
-    <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://chatsworth.cf/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://chatsworth.cf/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hypnotherapy</title>
-      <link>https://chatsworth.cf/blog/hypnotherapy/</link>
-      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      <title>Test Post 1</title>
+      <link>https://chatsworth.cf/blog/testpost1/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://chatsworth.cf/blog/hypnotherapy/</guid>
-      <description>What happens in a hypnotherapy session There are different types of hypnotherapy, and different ways of hypnotising someone.
-First, you&amp;rsquo;ll usually have a talk with your therapist to discuss what you hope to achieve and agree what methods your therapist will use.
-After this, the hypnotherapist may:
-lead you into a deeply relaxed state – most people feel refreshed and relaxed use your agreed methods to help you towards your goals – for example, suggesting that you do not want to carry out a certain habit gradually bring you out of the trance-like state.</description>
+      <guid>https://chatsworth.cf/blog/testpost1/</guid>
+      <description>Test Post 1 Heading Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus accumsan, lacus nec venenatis bibendum, eros tortor tristique nisl, non interdum nibh nisl et eros. Nullam finibus tortor et egestas ultrices. Donec cursus egestas vestibulum. Sed ornare orci metus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus velit magna, ullamcorper varius molestie in, ultricies ac massa. Nulla fringilla ipsum sit amet nunc viverra, sit amet mattis sapien faucibus.</description>
     </item>
     
     <item>
-      <title>Stop Smoking!</title>
-      <link>https://chatsworth.cf/blog/stop-smoking/</link>
-      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      <title>Test Post 2</title>
+      <link>https://chatsworth.cf/blog/testpost2/</link>
+      <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://chatsworth.cf/blog/stop-smoking/</guid>
-      <description>Quit Smoking Stopping smoking is one of the best things you will ever do for your health.
-When you stop, you give your lungs the chance to repair and you will be able to breathe easier. There are lots of other benefits too – and they start almost immediately.
-It&amp;rsquo;s never too late to quit. Let&amp;rsquo;s do this!</description>
+      <guid>https://chatsworth.cf/blog/testpost2/</guid>
+      <description>Test Post 1 Heading Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus accumsan, lacus nec venenatis bibendum, eros tortor tristique nisl, non interdum nibh nisl et eros. Nullam finibus tortor et egestas ultrices. Donec cursus egestas vestibulum. Sed ornare orci metus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus velit magna, ullamcorper varius molestie in, ultricies ac massa. Nulla fringilla ipsum sit amet nunc viverra, sit amet mattis sapien faucibus.</description>
     </item>
     
     <item>
@@ -37,7 +32,7 @@ It&amp;rsquo;s never too late to quit. Let&amp;rsquo;s do this!</description>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://chatsworth.cf/about/</guid>
-      <description>Jane Doe - (qual1) (qual2) (qual3) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque efficitur blandit massa, vitae varius dolor facilisis ut. Aenean egestas nisi vel pellentesque commodo. Integer pellentesque sagittis nisi sit amet fringilla. Pellentesque consectetur odio non metus posuere, quis imperdiet purus blandit. Nulla sit amet dapibus sapien. Praesent nulla ante, facilisis eget feugiat dignissim, ultricies sit amet augue. In sit amet ipsum dui.
+      <description>John Smith Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque efficitur blandit massa, vitae varius dolor facilisis ut. Aenean egestas nisi vel pellentesque commodo. Integer pellentesque sagittis nisi sit amet fringilla. Pellentesque consectetur odio non metus posuere, quis imperdiet purus blandit. Nulla sit amet dapibus sapien. Praesent nulla ante, facilisis eget feugiat dignissim, ultricies sit amet augue. In sit amet ipsum dui.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
     </item>
     
@@ -67,7 +62,7 @@ This policy sets out how we process any personal data we collect from you or tha
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://chatsworth.cf/services/</guid>
-      <description>Weight Loss Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque efficitur blandit massa, vitae varius dolor facilisis ut. Aenean egestas nisi vel pellentesque commodo. Integer pellentesque sagittis nisi sit amet fringilla. Pellentesque consectetur odio non metus posuere, quis imperdiet purus blandit. Nulla sit amet dapibus sapien. Praesent nulla ante, facilisis eget feugiat dignissim, ultricies sit amet augue. In sit amet ipsum dui. Cras felis ex, aliquam fringilla imperdiet eu, fermentum at nisi.</description>
+      <description>Service 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque efficitur blandit massa, vitae varius dolor facilisis ut. Aenean egestas nisi vel pellentesque commodo. Integer pellentesque sagittis nisi sit amet fringilla. Pellentesque consectetur odio non metus posuere, quis imperdiet purus blandit. Nulla sit amet dapibus sapien. Praesent nulla ante, facilisis eget feugiat dignissim, ultricies sit amet augue. In sit amet ipsum dui. Cras felis ex, aliquam fringilla imperdiet eu, fermentum at nisi.</description>
     </item>
     
     <item>

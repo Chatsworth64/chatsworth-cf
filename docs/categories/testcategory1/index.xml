@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TestCategory1 on Chatsworth</title>
+    <link>https://chatsworth.cf/categories/testcategory1/</link>
+    <description>Recent content in TestCategory1 on Chatsworth</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>(c) Chatsworth</copyright>
+    <lastBuildDate>Sun, 15 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://chatsworth.cf/categories/testcategory1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Post 1</title>
+      <link>https://chatsworth.cf/blog/testpost1/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://chatsworth.cf/blog/testpost1/</guid>
+      <description>Test Post 1 Heading Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus accumsan, lacus nec venenatis bibendum, eros tortor tristique nisl, non interdum nibh nisl et eros. Nullam finibus tortor et egestas ultrices. Donec cursus egestas vestibulum. Sed ornare orci metus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus velit magna, ullamcorper varius molestie in, ultricies ac massa. Nulla fringilla ipsum sit amet nunc viverra, sit amet mattis sapien faucibus.</description>
+    </item>
+    
+  </channel>
+</rss>

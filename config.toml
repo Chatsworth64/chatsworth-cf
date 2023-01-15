@@ -44,7 +44,7 @@ enableRobotsTXT         = true
   author                = "Anon"
 
   [params.meta]
-    description         = "Chatsworth Hypnotherapy"
+    description         = "Chatsworth Test Site"
     author              = "Chatsworth"
     favicon             = false
     svg                 = false
@@ -61,8 +61,8 @@ enableRobotsTXT         = true
     darkbutton          = true
 
   [params.intro]
-    header                = "Chatsworth Hypnotherapy"
-    paragraph             = "Tune-in to your potential"
+    header                = "Chatsworth Test Site"
+    paragraph             = "Test Site for Hugo Deployment"
     rssIntro              = true
     socialIntro           = true
     hideWhenSingleColumn  = true
