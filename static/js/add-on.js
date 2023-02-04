@@ -5,31 +5,37 @@
   and follow the formatting and style given.
 */
 
-const darkIconClass = 'fas fa-moon fa-2x'
-const lightIconClass = 'fas fa-sun fa-2x'
-var darkCSS = $("#dark-theme");
-var darkToggleIcon = $("#dark-toggle i");
+const darkIconClass = 'fa-moon'
+const lightIconClass = 'fa-sun'
+
+const darkCSS = $("html")
+const darkToggle = $(".dark-toggle")
+const darkToggleIcon = $(".dark-toggle i")
+const darkModeText = $("#dark-mode-text")
 
 // Set theme with the given mode and toggle the theme icon button
 function setThemeMode(mode) {
   if (mode === "dark") {
-    darkCSS.prop('disabled', false)
-    $("#dark-toggle i").attr('class', lightIconClass)
+    darkCSS.attr('class', "dark")
+    darkToggleIcon.addClass(lightIconClass)
+    darkToggleIcon.removeClass(darkIconClass)
+    darkModeText.text("Light mode")
   } else if (mode === "light") {
-    darkCSS.prop('disabled', true)
-    darkToggleIcon.attr('class', darkIconClass)
+    darkCSS.removeAttr('class')
+    darkToggleIcon.addClass(darkIconClass)
+    darkToggleIcon.removeClass(lightIconClass)
+    darkModeText.text("Dark mode")
   }
   localStorage.setItem("dark-theme", mode);
 }
 
 // Toggle dark mode when user click on the icon button
-$("#dark-toggle").click(function () {
-  if (darkToggleIcon.attr("class") == darkIconClass) {
+darkToggle.click(function () {
+  if (darkToggleIcon.hasClass(darkIconClass)) {
     setThemeMode("dark")
-  } else if (darkToggleIcon.attr("class") == lightIconClass) {
+  } else if (darkToggleIcon.hasClass(lightIconClass)) {
     setThemeMode("light")
   }
 });
 
-var savedTheme = localStorage.getItem("dark-theme") || "light";
-setThemeMode(savedTheme)
+setThemeMode(localStorage.getItem("dark-theme") || "light");

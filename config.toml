@@ -58,7 +58,7 @@ enableRobotsTXT         = true
     searchMenu          = true
     shareMenu           = true
     languageMenu        = false
-    darkbutton          = true
+    darkButton          = true
 
   [params.intro]
     header                = "Chatsworth Test Site"
