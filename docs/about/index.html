@@ -340,6 +340,27 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.js"></script>
     <script src="https://unpkg.com/lunr/lunr.js"></script><script src="/js/bundlecdn.min.613696467d4ef66b6a76e761bf8986a2cf5ebdd330e468692a2006aed80babf0.js" integrity="sha256-YTaWRn1O9mtqdudhv4mGos9evdMw5GhpKiAGrtgLq/A="></script>
     <script src="/js/add-on.js?v=20230204"></script>
+<script type="application/javascript">
+var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+var doNotTrack = (dnt == "1" || dnt == "yes");
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	if (window.sessionStorage) {
+		var GA_SESSION_STORAGE_KEY = 'ga:clientId';
+		ga('create', 'G-VT58T479HM', {
+	    'storage': 'none',
+	    'clientId': sessionStorage.getItem(GA_SESSION_STORAGE_KEY)
+	   });
+	   ga(function(tracker) {
+	    sessionStorage.setItem(GA_SESSION_STORAGE_KEY, tracker.get('clientId'));
+	   });
+   }
+	ga('set', 'anonymizeIp', true);
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
     </div>
   </body>
 </html>
