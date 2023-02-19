@@ -111,9 +111,9 @@ enableRobotsTXT         = true
     disable = true
   
   [privacy.googleAnalytics]
-    anonymizeIP = true
+    anonymizeIP = false
     disable = false
-    respectDoNotTrack = true
+    respectDoNotTrack = false
     useSessionStorage = true
   
   [privacy.instagram]
